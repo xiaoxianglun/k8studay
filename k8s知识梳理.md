@@ -9,3 +9,6 @@
 - scheduler：k8s集群的调度器
 - etcd：etcd内存储集群的各种基本信息。
 - cloud-cm：云端控制器管理器。
+
+# 创建deployment
+![deployment](https://raw.githubusercontent.com/xiaoxianglun/k8studay/main/deployment.png)
